@@ -19,15 +19,18 @@
 
 <div style="display: flex; flex-direction: column; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=ArrozDoce007&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" style="width: 100%;"/>
-  <img alt="gif" height="200" style="border-radius:50%; width: 100%; max-width: 300px; margin: 0 auto;" src="https://reserva-lab-nassau.s3.us-east-2.amazonaws.com/assets/dancing-toothless.gif">
 </div>
 
 ---
 
 ## ⚡ Curiosidades sobre mim
 
-- ☕ Adoro um bom café enquanto programo.  
-- 🎮 Nos tempos livres, gosto de explorar jogos indie.  
-- ✈ Sempre buscando aprender novas linguagens e ferramentas.
-
-Obrigado pela visita! 😊
+<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
+  <div style="display: flex; flex-direction: column;">
+    <p>- ☕ Adoro um bom café enquanto programo.</p>
+    <p>- 🎮 Nos tempos livres, gosto de explorar jogos indie.</p>
+    <p>- ✈ Sempre buscando aprender novas linguagens e ferramentas.</p>
+    <p>Obrigado pela visita! 😊</p>
+  </div>
+  <img alt="gif" height="200" style="border-radius:50%;" src="https://reserva-lab-nassau.s3.us-east-2.amazonaws.com/assets/dancing-toothless.gif">
+</div>
