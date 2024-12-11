@@ -25,12 +25,7 @@
 
 ## ⚡ Curiosidades sobre mim
 
-<div style="display: flex; flex-direction: row; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column;">
-    <p>- ☕ Adoro um bom café enquanto programo.</p>
-    <p>- 🎮 Nos tempos livres, gosto de explorar jogos indie.</p>
-    <p>- ✈ Sempre buscando aprender novas linguagens e ferramentas.</p>
-    <p>Obrigado pela visita! 😊</p>
-  </div>
-  <img alt="gif" height="200" style="border-radius:50%;" src="https://reserva-lab-nassau.s3.us-east-2.amazonaws.com/assets/dancing-toothless.gif">
-</div>
+|  |  |
+|-------|--------|
+| - ☕ **Adoro um bom café enquanto programo.**<br> - 🎮 **Nos tempos livres, gosto de explorar jogos indie.**<br> - ✈ **Sempre buscando aprender novas linguagens e ferramentas.**<br> - Obrigado pela visita! 😊 | ![gif](https://reserva-lab-nassau.s3.us-east-2.amazonaws.com/assets/dancing-toothless.gif) |
+
