@@ -31,14 +31,6 @@
 
 ---
 
-## 🎨 Projetos destacados
-
-- **[Sistema de reserva interno da Uninassau-JP](https://github.com/ArrozDoce007/reserva-lab):** Auxilia e Padroniza a Reserva de Salas e Laboratórios de Informática.  
-- **[Sistema para gestao de venda e estoque](https://github.com/ArrozDoce007/sistema-gestao-estoque-e-vendas):** Auxilia Empresas a Ter Controle Interno de Vendas e Despesas.  
-- **[Pagina de login e cadastro](https://github.com/ArrozDoce007/Pagina-de-login-moderna):** Visualmente Atraente, Oferece uma Experiência de Usuário Simplificada e Eficiente.  
-
----
-
 ## ⚡ Curiosidades sobre mim
 
 - ☕ Adoro um bom café enquanto programo.  
