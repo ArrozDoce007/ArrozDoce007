@@ -15,12 +15,9 @@
 
 ---
 
-## ✨ GitHub Stats
-
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArrozDoce007&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrozDoce007&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight" alt="Languages Graph" style="width: 100%;"/>
-</div>
+| GitHub Stats | Top Languages |
+|-------------|---------------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=ArrozDoce007&show_icons=true&theme=tokyonight) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrozDoce007&layout=compact&langs_count=6&theme=tokyonight) |
 
 ---
 
