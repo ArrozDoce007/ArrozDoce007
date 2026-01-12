@@ -5,7 +5,7 @@
 - 📚 **Name:** Guilherme Sousa  
 - ⚖️ **Occupation:** Fullstack Freelancer Developer
 - 🚀 **Interests:** Web Development  
-- 🔒 **Contact:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermesousaesilva226@gmail.com) | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/guilherme_sousa_gss) | [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://portifolio-personalizado.netlify.app)
+- 🔒 **Contact:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermesousaesilva226@gmail.com) | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/guilherme_sousa_gss) | [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://portfolio-guilherme-gnexcoding.vercel.app)
 
 ---
 
@@ -18,7 +18,7 @@
 ## ✨ GitHub Stats
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArrozDoce007&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ArrozDoce007&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" style="width: 100%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrozDoce007&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight" alt="Languages Graph" style="width: 100%;"/>
 </div>
 
