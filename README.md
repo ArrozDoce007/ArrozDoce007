@@ -15,10 +15,6 @@
 
 ---
 
-| GitHub Stats | Top Languages |
-|-------------|---------------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=ArrozDoce007&show_icons=true&theme=tokyonight) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArrozDoce007&layout=compact&langs_count=6&theme=tokyonight) |
-
 ---
 
 ## ⚡ Fun Facts About Me
