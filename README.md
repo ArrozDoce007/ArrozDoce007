@@ -21,4 +21,4 @@
 
 |  |  |
 |-------|--------|
-| - ☕ **I love a good cup of coffee while coding.**<br> - 🎮 **In my free time, I enjoy exploring indie games.**<br> - ✈ **Always looking to learn new languages and tools.**<br> - Thank you for visiting! 😊 | ![gif](https://reserva-lab-nassau.s3.us-east-2.amazonaws.com/assets/dancing-toothless.gif) |
+| - ☕ **I love a good cup of coffee while coding.**<br> - 🎮 **In my free time, I enjoy exploring indie games.**<br> - ✈ **Always looking to learn new languages and tools.**<br> - Thank you for visiting! 😊 | ![gif](https://imagens-pagina-web.s3.sa-east-1.amazonaws.com/dancing-toothless.gif) |
