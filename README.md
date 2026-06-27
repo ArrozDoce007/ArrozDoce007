@@ -3,7 +3,7 @@
 ## 👋 About Me
 
 - 📚 **Name:** Guilherme Sousa  
-- ⚖️ **Occupation:** Fullstack Freelancer Developer
+- ⚖️ **Occupation:** Fullstack Developer
 - 🚀 **Interests:** Web Development  
 - 🔒 **Contact:** [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermesousaesilva226@gmail.com) | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/guilherme_sousa_gss) | [![Portfolio](https://img.shields.io/badge/-Portfolio-24292e?style=flat&logo=github&logoColor=white)](https://g-nex-coding.com.br)
 
